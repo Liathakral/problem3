@@ -1,4 +1,0 @@
-streamlit
-torch==2.2.0+cpu 
-numpy
-Pillow
